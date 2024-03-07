@@ -1,4 +1,5 @@
 require ( './root.js' );
+require ('../index.js');
 
 
 describe('shout(string)', function() {
